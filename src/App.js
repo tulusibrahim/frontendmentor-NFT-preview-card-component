@@ -1,4 +1,4 @@
-import { Box, ChakraProvider, Flex, Image } from '@chakra-ui/react'
+import { Box, ChakraProvider, Image } from '@chakra-ui/react'
 import mainImage from './images/image-equilibrium.jpg'
 import ethIcon from './images/icon-ethereum.svg'
 import timeIcon from './images/icon-clock.svg'
